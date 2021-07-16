@@ -6,7 +6,7 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>ഞാൻ MLM MOVIE STORE support bot ആണ്....😉
+<i>ഞാൻ @NEW_MLM_HD_MOVES group support bot ആണ്..😉
 
 """    
     
